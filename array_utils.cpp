@@ -14,4 +14,6 @@ void msac::printIntArray(const int array[], size_t count)
     }
 
     std::cout << "]\n";
+
+    std::cout << "hello" << std::endl;
 }
